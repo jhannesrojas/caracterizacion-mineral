@@ -1,0 +1,10 @@
+CARACTERIZACIÓN MINERAL — VERSIÓN 2
+
+1. Sube todos los archivos sueltos a la raíz de tu repositorio GitHub (no subas el ZIP).
+2. Settings > Pages > Deploy from a branch > main > /(root) > Save.
+3. Abre https://jhannesrojas.github.io/caracterizacion-mineral/ en Safari y usa Compartir > Añadir a pantalla de inicio.
+4. Abre con internet una vez y luego prueba en modo avión.
+5. No borres los datos de Safari ni la aplicación instalada sin exportar respaldo JSON.
+6. CSV sirve para importar en Excel; no modifica directamente un archivo en D:.
+7. La opción de agregar listas solo modifica este dispositivo. Cambios globales requieren actualizar el código publicado.
+8. GitHub Pages público: NO subas el Excel ni registros/fotografías de empresa.
